@@ -12,7 +12,7 @@
              srcset="">
          <p class="lead">Eu sou Ailson_</p>
      <header class="container">
-         <img src="img/avatar-perfil.png" alt="avatar da Fernanda" srcset="">
+         <img src="img/avatar-perfil.png" alt="avatar do Ailson" srcset="">
          <p>Eu sou Ailson_</p>
          <h1>Eu estudo programação</h1>
          <p>Sou estudando de programação. Estudo pensamento computacional no Ensino
