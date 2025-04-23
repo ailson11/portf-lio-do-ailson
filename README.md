@@ -5,7 +5,6 @@
      <header class="container text-center">
          <img src="blob:https://web.whatsapp.com/63f27d54-82b9-431c-b3a4-7a6a51ed9d36" alt="avatar do Ailson" class="rounded-circle" width="150" height="150"
              srcset="">
-         <img src="[img/avatar-perfil.png](https://img.band.com.br/image/2025/02/18/neymar-marcou-contra-o-agua-santa-122017_800x450.webp)" alt="avatar do Ailson" srcset="">
          <p>Eu sou Ailson_</p>
          <h1>Eu estudo programação</h1>
          <p>Sou estudante de programação. Estudo pensamento computacional no Ensino
