@@ -1,4 +1,3 @@
-     <title>Meu portfólio</title> 
  <body>
      <header class="container text-center">
          <img src="blob:https://web.whatsapp.com/63f27d54-82b9-431c-b3a4-7a6a51ed9d36" alt="avatar do Ailson" class="rounded-circle" width="150" height="150"
