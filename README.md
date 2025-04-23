@@ -1,6 +1,9 @@
-     <title>Meu portfólio</title>
- </head>
- 
+<meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+     <link rel="stylesheet" href="style.css">
+     <title>Meu portfólio</title> 
  <body>
      <header class="container text-center">
          <img src="blob:https://web.whatsapp.com/63f27d54-82b9-431c-b3a4-7a6a51ed9d36" alt="avatar do Ailson" class="rounded-circle" width="150" height="150"
